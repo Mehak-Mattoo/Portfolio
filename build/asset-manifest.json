@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7c9de1e.css",
+    "main.js": "/static/js/main.36ac86a4.js",
+    "static/media/mehak.jpg": "/static/media/mehak.54d6ac83efd0490697c5.jpg",
+    "static/media/Mehak_Mattoo_Resume.pdf": "/static/media/Mehak_Mattoo_Resume.5cbd3c87d0711c308197.pdf",
+    "static/media/calculator.png": "/static/media/calculator.c88bc13c4ea96b7c33fa.png",
+    "static/media/to-do-list.png": "/static/media/to-do-list.c33068b26952a270bc81.png",
+    "static/media/netflix.png": "/static/media/netflix.665900a592217cb9ee94.png",
+    "index.html": "/index.html",
+    "main.d7c9de1e.css.map": "/static/css/main.d7c9de1e.css.map",
+    "main.36ac86a4.js.map": "/static/js/main.36ac86a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c9de1e.css",
+    "static/js/main.36ac86a4.js"
+  ]
+}
